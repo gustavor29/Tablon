@@ -86,3 +86,32 @@ To get a local copy up and running, follow these simple steps.
 1. **Clone the repo**
    ```sh
    git clone https://github.com/gustavor29/Tablon
+    ```
+2. **Set up Firebase**
+Place your google-services.json file in the app/ directory of the project.
+3. Open in Android Studio
+Open the project in Android Studio and let it sync.
+4. Run the app
+Build and run the app on an Android emulator or a physical device.
+---
+
+## 🛣️ Roadmap
+The solid foundation of v1.0 allows for easy expansion. Here are the logical next steps:
+###v1.1 (Immediate Enhancements)
+- **Implement Google Sign-In:** Add "Sign in with Google" as an alternative to email registration.
+- **Build Archived Lists Screen:** Develop the UI to view the historical shopping lists that are already being saved.
+- **Implement Navigation Menu (Hamburger):** Activate the menu button to navigate between the active list and the archives.
+###v2.0 (Advanced Features)
+- **Push Notifications:** Notify household members when a new item is added to the list.
+- **Product Categorization:** Allow users to assign categories to products and view a summary of expenses by category.
+- **Multiple Lists:** Enable a household to manage multiple active lists simultaneously (e.g., "Weekly Groceries," "Hardware Store").
+## 🤝 How to Contribute
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated.**
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+1. Fork the Project
+2- Create your Feature Branch (```sh git checkout -b feature/AmazingFeature```sh)
+3. Commit your Changes (```shgit commit -m 'Add some AmazingFeature'```sh)
+4. Push to the Branch (```shgit push origin feature/AmazingFeature```sh)
+5. Open a Pull Request
+##📄 License
+Distributed under the MIT License. See LICENSE for more information.
