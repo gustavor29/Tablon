@@ -85,4 +85,4 @@ To get a local copy up and running, follow these simple steps.
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/your_username/your_repository_name.git
+   git clone [https://github.com/your_username/your_repository_name.gi](https://github.com/gustavor29/Tablon.git)t
