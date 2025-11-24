@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550692694735",
+    "project_id": "tablon-97102",
+    "storage_bucket": "tablon-97102.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550692694735:android:abf80650a3db9c70b365ba",
+        "android_client_info": {
+          "package_name": "com.tab.tablon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550692694735-jmgq4h0i3656gfml0j8looh7s3s2mbpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGjW9amkiKAj6a5Klh7GwOg77k0pJ8FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550692694735-jmgq4h0i3656gfml0j8looh7s3s2mbpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
