@@ -11,7 +11,7 @@ This project is currently at the **Minimum Viable Product (MVP)** stage, with a 
 - [✨ Key Features](#-key-features)
 - [🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
 - [🚀 Getting Started](#-getting-started)
-- [🚀 Gallery(#-gallery)
+- [갤 Gallery](#-gallery)
 - [🛣️ Roadmap](#️-roadmap)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📄 License](#-license)
