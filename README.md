@@ -11,6 +11,7 @@ This project is currently at the **Minimum Viable Product (MVP)** stage, with a 
 - [✨ Key Features](#-key-features)
 - [🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
 - [🚀 Getting Started](#-getting-started)
+- [🚀 Gallery(#-gallery)
 - [🛣️ Roadmap](#️-roadmap)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📄 License](#-license)
@@ -93,6 +94,15 @@ Place your google-services.json file in the app/ directory of the project.
 Open the project in Android Studio and let it sync.
 4. Run the app
 Build and run the app on an Android emulator or a physical device.
+
+---
+
+## Gallery
+
+
+| Shopping List Screen                                | Adding a Product Screen                           |
+| --------------------------------------------------- | ------------------------------------------------- |
+| ![Shopping List Screen](https://github.com/gustavor29/Tablon/blob/main/ShopingList.jpeg) | ![Adding a Product Screen](https://github.com/gustavor29/Tablon/blob/main/ProductAdd.jpeg) |
 ---
 
 ## 🛣️ Roadmap
