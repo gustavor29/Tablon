@@ -107,11 +107,11 @@ Build and run the app on an Android emulator or a physical device.
 
 ## 🛣️ Roadmap
 The solid foundation of v1.0 allows for easy expansion. Here are the logical next steps:
-###v1.1 (Immediate Enhancements)
+### v1.1 (Immediate Enhancements)
 - **Implement Google Sign-In:** Add "Sign in with Google" as an alternative to email registration.
 - **Build Archived Lists Screen:** Develop the UI to view the historical shopping lists that are already being saved.
 - **Implement Navigation Menu (Hamburger):** Activate the menu button to navigate between the active list and the archives.
-###v2.0 (Advanced Features)
+### v2.0 (Advanced Features)
 - **Push Notifications:** Notify household members when a new item is added to the list.
 - **Product Categorization:** Allow users to assign categories to products and view a summary of expenses by category.
 - **Multiple Lists:** Enable a household to manage multiple active lists simultaneously (e.g., "Weekly Groceries," "Hardware Store").
